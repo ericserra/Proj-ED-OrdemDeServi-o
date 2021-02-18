@@ -1,0 +1,7 @@
+C:\Users\erics\OneDrive\Documents\GitHub\Proj-ED-OrdemDeServico\Proj-Fila-OrdemDeServico\Proj-Fila-OrdemDeServico\bin\Debug\Proj-Fila-OrdemDeServico.exe.config
+C:\Users\erics\OneDrive\Documents\GitHub\Proj-ED-OrdemDeServico\Proj-Fila-OrdemDeServico\Proj-Fila-OrdemDeServico\bin\Debug\Proj-Fila-OrdemDeServico.exe
+C:\Users\erics\OneDrive\Documents\GitHub\Proj-ED-OrdemDeServico\Proj-Fila-OrdemDeServico\Proj-Fila-OrdemDeServico\bin\Debug\Proj-Fila-OrdemDeServico.pdb
+C:\Users\erics\OneDrive\Documents\GitHub\Proj-ED-OrdemDeServico\Proj-Fila-OrdemDeServico\Proj-Fila-OrdemDeServico\obj\Debug\Proj-Fila-OrdemDeServico.csprojAssemblyReference.cache
+C:\Users\erics\OneDrive\Documents\GitHub\Proj-ED-OrdemDeServico\Proj-Fila-OrdemDeServico\Proj-Fila-OrdemDeServico\obj\Debug\Proj-Fila-OrdemDeServico.csproj.CoreCompileInputs.cache
+C:\Users\erics\OneDrive\Documents\GitHub\Proj-ED-OrdemDeServico\Proj-Fila-OrdemDeServico\Proj-Fila-OrdemDeServico\obj\Debug\Proj-Fila-OrdemDeServico.exe
+C:\Users\erics\OneDrive\Documents\GitHub\Proj-ED-OrdemDeServico\Proj-Fila-OrdemDeServico\Proj-Fila-OrdemDeServico\obj\Debug\Proj-Fila-OrdemDeServico.pdb
