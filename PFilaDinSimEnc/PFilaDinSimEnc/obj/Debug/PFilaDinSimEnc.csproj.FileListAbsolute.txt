@@ -1,0 +1,7 @@
+C:\Users\55169\source\repos\PFilaDinSimEnc\PFilaDinSimEnc\bin\Debug\PFilaDinSimEnc.exe.config
+C:\Users\55169\source\repos\PFilaDinSimEnc\PFilaDinSimEnc\bin\Debug\PFilaDinSimEnc.exe
+C:\Users\55169\source\repos\PFilaDinSimEnc\PFilaDinSimEnc\bin\Debug\PFilaDinSimEnc.pdb
+C:\Users\55169\source\repos\PFilaDinSimEnc\PFilaDinSimEnc\obj\Debug\PFilaDinSimEnc.csprojAssemblyReference.cache
+C:\Users\55169\source\repos\PFilaDinSimEnc\PFilaDinSimEnc\obj\Debug\PFilaDinSimEnc.csproj.CoreCompileInputs.cache
+C:\Users\55169\source\repos\PFilaDinSimEnc\PFilaDinSimEnc\obj\Debug\PFilaDinSimEnc.exe
+C:\Users\55169\source\repos\PFilaDinSimEnc\PFilaDinSimEnc\obj\Debug\PFilaDinSimEnc.pdb
